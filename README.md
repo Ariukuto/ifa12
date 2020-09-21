@@ -1,3 +1,3 @@
 # ifa12
 
-*Klassenlehrer:* Herr Baierlein
+**Klassenlehrer:** Herr Baierlein
